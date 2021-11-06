@@ -1,0 +1,19 @@
+{
+  "name": "Dominating-Node---gst12-f2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JhonatanNobrega/Dominating-Node---gst12-f2.git",
+  "author": "Jhonatan Nobrega <jhonatan_nobrega@hotmail.com>",
+  "license": "MIT",
+
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
